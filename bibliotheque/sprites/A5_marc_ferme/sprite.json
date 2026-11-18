@@ -1,0 +1,18 @@
+{
+ "frames": 126,
+ "fps": 25,
+ "size": [
+  394,
+  537
+ ],
+ "source": "A5_marc_ferme.mp4",
+ "source_box": [
+  35,
+  157,
+  429,
+  694
+ ],
+ "scale": 1,
+ "anchor": "bas-centre",
+ "format": "webp"
+}

@@ -1,0 +1,18 @@
+{
+ "frames": 126,
+ "fps": 25,
+ "size": [
+  439,
+  467
+ ],
+ "source": "A6_marc_leo_calin.mp4",
+ "source_box": [
+  26,
+  218,
+  465,
+  685
+ ],
+ "scale": 1,
+ "anchor": "bas-centre",
+ "format": "webp"
+}

@@ -1,0 +1,18 @@
+{
+ "frames": 126,
+ "fps": 25,
+ "size": [
+  261,
+  519
+ ],
+ "source": "A4_marc_prie.mp4",
+ "source_box": [
+  110,
+  164,
+  371,
+  683
+ ],
+ "scale": 1,
+ "anchor": "bas-centre",
+ "format": "webp"
+}

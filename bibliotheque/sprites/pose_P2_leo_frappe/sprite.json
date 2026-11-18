@@ -1,0 +1,18 @@
+{
+ "frames": 1,
+ "fps": 25,
+ "size": [
+  585,
+  1028
+ ],
+ "source": "P2_leo_frappe.png",
+ "source_box": [
+  281,
+  545,
+  1256,
+  2258
+ ],
+ "scale": 0.6,
+ "anchor": "bas-centre",
+ "format": "webp"
+}

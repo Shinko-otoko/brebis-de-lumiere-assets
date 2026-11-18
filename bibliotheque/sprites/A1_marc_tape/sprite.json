@@ -1,0 +1,18 @@
+{
+ "frames": 126,
+ "fps": 25,
+ "size": [
+  393,
+  522
+ ],
+ "source": "A1_marc_tape.mp4",
+ "source_box": [
+  35,
+  172,
+  428,
+  694
+ ],
+ "scale": 1,
+ "anchor": "bas-centre",
+ "format": "webp"
+}

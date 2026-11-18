@@ -1,0 +1,18 @@
+{
+ "frames": 1,
+ "fps": 25,
+ "size": [
+  467,
+  962
+ ],
+ "source": "P4_marc_prie.png",
+ "source_box": [
+  377,
+  574,
+  1156,
+  2177
+ ],
+ "scale": 0.6,
+ "anchor": "bas-centre",
+ "format": "webp"
+}

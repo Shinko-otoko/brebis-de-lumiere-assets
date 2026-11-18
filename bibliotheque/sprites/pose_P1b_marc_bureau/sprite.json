@@ -1,0 +1,18 @@
+{
+ "frames": 1,
+ "fps": 25,
+ "size": [
+  722,
+  982
+ ],
+ "source": "P1b_marc_bureau.png",
+ "source_box": [
+  143,
+  573,
+  1346,
+  2210
+ ],
+ "scale": 0.6,
+ "anchor": "bas-centre",
+ "format": "webp"
+}

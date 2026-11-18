@@ -1,0 +1,18 @@
+{
+ "frames": 1,
+ "fps": 25,
+ "size": [
+  803,
+  863
+ ],
+ "source": "P6_marc_leo.png",
+ "source_box": [
+  116,
+  742,
+  1454,
+  2180
+ ],
+ "scale": 0.6,
+ "anchor": "bas-centre",
+ "format": "webp"
+}

@@ -1,0 +1,18 @@
+{
+ "frames": 1,
+ "fps": 25,
+ "size": [
+  599,
+  1126
+ ],
+ "source": "P3_claire_parle.png",
+ "source_box": [
+  265,
+  525,
+  1263,
+  2402
+ ],
+ "scale": 0.6,
+ "anchor": "bas-centre",
+ "format": "webp"
+}

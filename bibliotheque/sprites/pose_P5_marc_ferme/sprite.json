@@ -1,0 +1,18 @@
+{
+ "frames": 1,
+ "fps": 25,
+ "size": [
+  722,
+  970
+ ],
+ "source": "P5_marc_ferme.png",
+ "source_box": [
+  143,
+  593,
+  1346,
+  2210
+ ],
+ "scale": 0.6,
+ "anchor": "bas-centre",
+ "format": "webp"
+}

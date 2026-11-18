@@ -1,0 +1,18 @@
+{
+ "frames": 126,
+ "fps": 25,
+ "size": [
+  344,
+  597
+ ],
+ "source": "A3_claire_parle.mp4",
+ "source_box": [
+  73,
+  157,
+  417,
+  754
+ ],
+ "scale": 1,
+ "anchor": "bas-centre",
+ "format": "webp"
+}

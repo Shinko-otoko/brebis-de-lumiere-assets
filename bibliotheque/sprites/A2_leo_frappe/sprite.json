@@ -1,0 +1,18 @@
+{
+ "frames": 126,
+ "fps": 25,
+ "size": [
+  348,
+  546
+ ],
+ "source": "A2_leo_frappe.mp4",
+ "source_box": [
+  77,
+  163,
+  425,
+  709
+ ],
+ "scale": 1,
+ "anchor": "bas-centre",
+ "format": "webp"
+}
